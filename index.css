@@ -162,4 +162,79 @@ th, td{
    
 }
 
+.query {
+    text-align: center;
+}
+
+.forms{
+    margin-left: 36%;
+    margin-top: 4%;
+    border: 1px solid rgb(127, 125, 125);
+    width: 50%;
+    padding: 10px;
+    border-radius: 5px;
+    transition: border-color 0.5s ease-in-out;
+}
+
+.forms:hover {
+    box-shadow: 0 0 20px rgba(127, 140, 140, 0.7);
+}
+
+.forms input{
+    margin-bottom: 8%;
+    width: 100%;
+}
+
+.forms textarea{
+    width: 100%;
+    padding: 1%;
+    border-radius: 3px;
+    border: 2px solid rgb(127, 125, 125);
+    color: rgb(127, 125, 125);
+    margin-bottom: 8%;
+}
+
+.forms button{
+    width: 50%;
+    padding: 1.5%;
+    color: rgb(127, 125, 124);
+    font-weight: bold;
+    border: none;
+    background: rgb(231, 227, 227);
+    border-radius: 3px;
+    margin-bottom: 6%;
+}
+
+.forms button:hover{
+    background-color: rgb(211, 217, 217);
+}
+
+
+.contct{
+    margin: 5% auto 5% 35%;
+}
+
+.cntct-li{
+    margin-left: 35%;
+    display: flex;
+    width: 50%;
+    padding: 10px;
+}
+
+.cntct-name{
+    font-weight: bold;
+}
+
+.cntct-name > li{
+    margin-bottom: 8%;
+}
+
+.cntc-details{
+    margin-left: 8%;
+    font-weight: normal;
+}
+
+.cntc-details > li{
+    margin-bottom: 5%;
+}
 
