@@ -13,3 +13,7 @@ After This I design the header section with flexbox layouts and give border-bott
 Updating the Html-Css-Portfolio, in which I added the Hero Section (Intro Section), and added the Skills Section.
 
 And also make it's a little responsiveness with grid.
+
+Untill now, I added about page and project page. In about page I added my personal info such name, description, skills, and educations. 
+
+And in project page I added my projects that i complete as an example.
