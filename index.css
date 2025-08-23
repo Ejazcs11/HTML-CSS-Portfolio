@@ -26,6 +26,10 @@ header{
     margin-bottom: 3%;
 }
 
+header h2{
+    margin-left: 3%;
+}
+
  nav{
     width: 35%;
  }
@@ -42,4 +46,51 @@ li a{
     text-decoration: none;
     color:  rgb(75, 75, 75) ;
 }
+
+.hero{
+   display: grid;
+   grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+   width: 100%;
+   padding: 4%;
+   border-bottom: 1px solid  rgb(75, 75, 75);
+   
+}
+
+
+.intro h2{
+    margin-bottom: 1%;
+}
+
+.descrp{
+    padding: 3%;
+    padding-left: 0%;
+    line-height: 180%;
+}
+
+.hero img{
+    width: 100%;
+    border-radius: 2%;
+}
+
+.skills{
+   width: 100%;
+   padding: 4%;
+   border-bottom: 1px solid  rgb(75, 75, 75);
+   
+}
+
+.skills h2{
+    margin-bottom: 1%;
+    width: 8%;
+    border-bottom: 2px solid  rgb(75, 75, 75);
+    letter-spacing: 4px;
+}
+
+.skills ul > li{
+    list-style: none;
+    margin-bottom: 1%;
+    padding-left: 2%;
+}
+
+
 
