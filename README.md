@@ -17,3 +17,6 @@ And also make it's a little responsiveness with grid.
 Untill now, I added about page and project page. In about page I added my personal info such name, description, skills, and educations. 
 
 And in project page I added my projects that i complete as an example.
+
+
+And lastly, I added contact page, in which I make query sections through forms details. and then added my contact details such linkedIn, WhatsApp, GitHub and Gmail.
